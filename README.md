@@ -1,4 +1,4 @@
-# Car-Sales-Dashboard
+ # Car-Sales-Dashboard
 # POWER-BI-Project
 
 This project aims to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
@@ -46,9 +46,14 @@ Problem Statement 2: Charts Requirement
 6. Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc
 
 
+Here is the Overview page of the Project
 
 
 ![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/OVERVIEW.png)
+
+
+Here is the Details page of the Project
+
 
 ![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/DETAILS.png)
    

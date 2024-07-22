@@ -3,7 +3,7 @@
 
 This project aims to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
 
-#Problem Statement 1: KPI’s Requirement
+Problem Statement 1: KPI’s Requirement
 
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
 
@@ -35,7 +35,9 @@ The dashboard should provide real-time insights into key performance indicators 
    
 
 
-#Problem Statement 2: Charts Requirement
+Problem Statement 2: Charts Requirement
+
+ 
 1. YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
 2. YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
 3. YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a pie chart.

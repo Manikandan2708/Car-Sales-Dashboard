@@ -70,6 +70,7 @@ Problem Statement 2: Charts Requirement
 
 3. YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a pie chart.
    
+
 ![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/YTD%20SALES%20BY%20COLOUR.png
 
 

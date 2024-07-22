@@ -3,6 +3,24 @@
 
 This project aims to design and develop a dynamic and interactive Car Sales Dashboard using Power BI. The dashboard will visualize critical KPIs related to our car sales, helping us understand our sales performance over time and make data-driven decisions.
 
+
+Here is the Overview page of the Project
+
+
+![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/OVERVIEW.png)
+
+
+
+
+Here is the Details page of the Project
+
+
+![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/DETAILS.png)
+
+
+
+
+
 Problem Statement 1: KPI’s Requirement
 
 The dashboard should provide real-time insights into key performance indicators (KPIs) related to our sales data. This will enable us to make informed decisions, monitor our progress, and identify trends and opportunities for growth.
@@ -51,43 +69,31 @@ Problem Statement 2: Charts Requirement
 
 
 3. YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a pie chart.
-6. 
+   
 ![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/YTD%20SALES%20BY%20COLOUR.png
 
 
-8. YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
+4. YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
 
-9. 
+   
 ![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/YTD%20CARS%20SOLD%20BY%20REGION.png)
 
 
 
-11. Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
+5. Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 
-12. 
+    
 ![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/COMPANY%20WISE%20SALES%20TREND.png)
 
 
 
-14. Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc
+6. Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc
 
-15. 
+    
 ![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/DETAILS%20TABLE.png)
 
 
 
-Here is the Overview page of the Project
-
-
-![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/OVERVIEW.png)
-
-
-
-
-Here is the Details page of the Project
-
-
-![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/DETAILS.png)
    
 
 

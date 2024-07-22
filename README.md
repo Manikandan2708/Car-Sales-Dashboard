@@ -23,6 +23,9 @@ The dashboard should provide real-time insights into key performance indicators 
            •	YOY Growth in Cars Sold
            •	Difference between YTD Cars Sold and PTYD Cars Sold
 
+![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/OVERVIEW.png)
+   
+
 #Problem Statement 2: Charts Requirement
 1. YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
 2. YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
@@ -31,5 +34,7 @@ The dashboard should provide real-time insights into key performance indicators 
 5. Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
 6. Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc
 
+![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/DETAILS.png)
+   
 
 

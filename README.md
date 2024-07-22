@@ -39,17 +39,49 @@ Problem Statement 2: Charts Requirement
 
  
 1. YTD Sales Weekly Trend: Display a line chart illustrating the weekly trend of YTD sales. The X-axis should represent weeks, and the Y-axis should show the total sales amount.
+
+   
+![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/YTD%20SALES%20WEEKLY%20TREND.png)
+
+
 2. YTD Total Sales by Body Style: Visualize the distribution of YTD total sales across different car body styles using a Pie chart.
+
+
+![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/YTD%20SALES%20BY%20BODY%20TYPE.png)
+
+
 3. YTD Total Sales by Color: Present the contribution of various car colors to the YTD total sales through a pie chart.
-4. YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
-5. Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
-6. Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc
+6. 
+![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/YTD%20SALES%20BY%20COLOUR.png
+
+
+8. YTD Cars Sold by Dealer Region: Showcase the YTD sales data based on different dealer regions using a map chart to visualize the sales distribution geographically.
+
+9. 
+![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/YTD%20CARS%20SOLD%20BY%20REGION.png)
+
+
+
+11. Company-Wise Sales Trend in Grid Form: Provide a tabular grid that displays the sales trend for each company. The grid should showcase the company name along with their YTD sales figures.
+
+12. 
+![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/COMPANY%20WISE%20SALES%20TREND.png)
+
+
+
+14. Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc
+
+15. 
+![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/DETAILS%20TABLE.png)
+
 
 
 Here is the Overview page of the Project
 
 
 ![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/OVERVIEW.png)
+
+
 
 
 Here is the Details page of the Project

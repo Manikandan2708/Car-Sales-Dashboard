@@ -31,7 +31,7 @@ The dashboard should provide real-time insights into key performance indicators 
 
 
 
-![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/OVERVIEW.png)
+
    
 
 
@@ -46,6 +46,9 @@ Problem Statement 2: Charts Requirement
 6. Details Grid Showing All Car Sales Information: Create a detailed grid that presents all relevant information for each car sale, including car model, body style, color, sales amount, dealer region, date, etc
 
 
+
+
+![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/OVERVIEW.png)
 
 ![image](https://github.com/Manikandan2708/Car-Sales-Dashboard/blob/main/DETAILS.png)
    
